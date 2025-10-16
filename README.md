@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Emmanuel Mwangangi  
 
 💻 **Full-Stack Developer | AWS Cloud Practitioner & Solutions Architect**  
-I’m passionate about building scalable, impactful web applications using **Django**, **DRF**, **React**, **Next.js (TypeScript)**, and **Node.js**.  
-I enjoy crafting human-centered designs and integrating powerful backend logic with elegant frontends.  
+I’m a passionate **Full-Stack Developer** and **AWS Cloud Enthusiast** who loves turning ideas into scalable, impactful solutions.  
+I work across the stack with **Django**, **DRF**, **React**, **Next.js (TypeScript)**, and **Node.js**, blending backend power with intuitive user experiences.  
+
+☁️ As an **AWS Certified Cloud Practitioner** and aspiring **Solutions Architect**, I design and deploy cloud-native applications, focusing on **scalability**, **security**, and **efficiency** using services like **EC2**, **S3**, **RDS**, and **Lambda**.  
+My goal is to bridge software engineering with cloud innovation — building systems that are fast, reliable, and ready to grow.  
 
 ---
 

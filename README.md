@@ -25,15 +25,16 @@ I enjoy crafting human-centered designs and integrating powerful backend logic w
 ---
 
 ### 📊 GitHub Stats  
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmauzishakes&show_icons=true&theme=radical)
+
+![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmauzishakes&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmauzishakes&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/emmanuel-mwangangi-040869368])  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)]([https://personal-portfolio-delta-lime.vercel.app/])  
-[![Email](https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white)](https://mailto:mwangangie284@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mwangangi-040869368)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](https://personal-portfolio-delta-lime.vercel.app/)  
+[![Email](https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white)](mailto:mwangangie284@gmail.com)
 
 ---
 

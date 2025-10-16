@@ -31,9 +31,9 @@ I enjoy crafting human-centered designs and integrating powerful backend logic w
 ---
 
 ### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/emmanuel-mwangangi-040869368))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)]([https://yourportfolio.com](https://personal-portfolio-delta-lime.vercel.app/))  
-[![Email](https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white)](mailto:mwangangie284@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/emmanuel-mwangangi-040869368])  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)]([https://personal-portfolio-delta-lime.vercel.app/])  
+[![Email](https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white)](https://mailto:mwangangie284@gmail.com)  
 
 ---
 

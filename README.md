@@ -9,7 +9,7 @@ My goal is to bridge software engineering with cloud innovation — building sys
 
 ---
 
-### 🚀 About Me  
+### About Me  
 -  Based in Kenya  
 -  AWS Certified Cloud Practitioner & aspiring Solutions Architect  
 -  Currently exploring AI integration and cloud-native web apps  
@@ -18,7 +18,7 @@ My goal is to bridge software engineering with cloud innovation — building sys
 
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack  
 **Frontend:** React, Next.js, Tailwind CSS, TypeScript  
 **Backend:** Django, DRF, Node.js, Express  
 **Database:** PostgreSQL, SQLite  
@@ -27,7 +27,7 @@ My goal is to bridge software engineering with cloud innovation — building sys
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 ![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmauzishakes&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmauzishakes&layout=compact&theme=radical)
 

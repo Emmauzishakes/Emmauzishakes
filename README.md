@@ -75,9 +75,9 @@ As an AWS Certified Cloud Practitioner and an aspiring Solutions Architect, I am
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmauzishakes\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmauzishakes&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmauzishakes\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmauzishakes&layout=compact&theme=radical)
 
 ---
 

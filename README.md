@@ -1,12 +1,12 @@
 # Emmanuel Mwangangi
 
-## Full-Stack Developer | Cloud & Solutions Architecture Enthusiast
+## Full-Stack Developer | Cloud & DevOps Engineer
 
-I am a Full-Stack Developer with a strong interest in designing scalable, secure, and maintainable software systems. My experience spans frontend development, backend engineering, cloud technologies, and modern deployment practices.
+I am a Full-Stack Developer with a strong interest in Cloud Engineering, DevOps, and scalable software architecture. I enjoy building modern web applications, designing resilient backend systems, and automating infrastructure through Infrastructure as Code.
 
-I build web applications using Django, Django REST Framework, React, Next.js, TypeScript, and Node.js, focusing on creating solutions that deliver excellent user experiences while maintaining robust backend architectures.
+My experience spans frontend development with React and Next.js, backend development with Django and Django REST Framework, cloud platforms including AWS and Google Cloud, and DevOps tooling such as Docker, Terraform, GitHub Actions, and CI/CD pipelines.
 
-As an AWS Certified Cloud Practitioner and an aspiring Solutions Architect, I am actively expanding my expertise in cloud-native application design, infrastructure automation, system scalability, security, and DevOps practices. I enjoy bridging software engineering with cloud technologies to build reliable systems that can grow with business needs.
+I am passionate about creating software that is secure, maintainable, scalable, and capable of solving real-world challenges.
 
 ---
 
@@ -14,14 +14,15 @@ As an AWS Certified Cloud Practitioner and an aspiring Solutions Architect, I am
 
 * Based in Kenya
 * AWS Certified Cloud Practitioner
-* Aspiring Solutions Architect
-* Passionate about cloud computing, infrastructure automation, and software architecture
-* Currently exploring AI-powered applications, Terraform, Google Cloud Platform, and cloud-native development
-* Interested in building technology that solves real-world challenges and creates meaningful impact
+* Pursuing deeper expertise in Solutions Architecture and Cloud Engineering
+* Interested in Cloud Infrastructure, DevOps, AI Integration, and Software Architecture
+* Experienced in designing and building full-stack applications
+* Currently exploring Terraform, Kubernetes, Google Cloud Platform, and Microservices Architecture
+* Goal: Build scalable technology solutions that create meaningful impact
 
 ---
 
-## Core Technologies
+## Tech Stack
 
 ### Frontend
 
@@ -30,12 +31,12 @@ As an AWS Certified Cloud Practitioner and an aspiring Solutions Architect, I am
 * TypeScript
 * JavaScript
 * Tailwind CSS
-* Redux
+* Redux Toolkit
 
 ### Backend
 
 * Django
-* Django REST Framework (DRF)
+* Django REST Framework
 * Node.js
 * Express.js
 
@@ -47,46 +48,60 @@ As an AWS Certified Cloud Practitioner and an aspiring Solutions Architect, I am
 ### Cloud & DevOps
 
 * AWS
+* Google Cloud Platform (GCP)
 * Docker
 * Terraform
 * GitHub Actions
-* Git
+* CI/CD Pipelines
 
 ### Tools & Technologies
 
-* REST APIs
+* Git
+* GitHub
 * Postman
+* REST APIs
 * Linux
-* CI/CD
-* Infrastructure as Code (IaC)
+* VS Code
 
 ---
 
-## Current Focus Areas
+## GitHub Analytics
 
-* Cloud Architecture and Infrastructure Design
-* Terraform and Infrastructure as Code
-* AWS and Google Cloud Platform
-* Microservices Architecture
-* AI Integration in Web Applications
-* Scalable Full-Stack Systems
+![GitHub Stats](https://emmauzishakes-readme-stats.vercel.app/api?username=Emmauzishakes\&show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=12)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Emmauzishakes\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://emmauzishakes-readme-stats.vercel.app/api/top-langs/?username=Emmauzishakes\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## GitHub Statistics
+## GitHub Activity Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmauzishakes&show_icons=true&theme=radical)
+[![Emmanuel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emmauzishakes\&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmauzishakes&layout=compact&theme=radical)
+---
+
+## Featured Areas
+
+* Full-Stack Web Development
+* Cloud Architecture
+* Infrastructure as Code (Terraform)
+* API Development
+* Microservices
+* DevOps & CI/CD
+* Database Design
+* System Design
 
 ---
 
 ## Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/emmanuel-mwangangi-040869368
-* Portfolio: https://personal-portfolio-delta-lime.vercel.app
-* Email: [mwangangie284@gmail.com](mailto:mwangangie284@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/emmanuel-mwangangi-040869368)
+
+[Portfolio](https://personal-portfolio-delta-lime.vercel.app/)
+
+Email: [mwangangie284@gmail.com](mailto:mwangangie284@gmail.com)
 
 ---
 
-> Code with purpose. Design with empathy. Build solutions that scale.
+> Code with purpose. Design with empathy. Build for impact.

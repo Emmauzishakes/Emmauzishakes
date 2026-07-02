@@ -1,43 +1,92 @@
-# Emmanuel Mwangangi  
+# Emmanuel Mwangangi
 
-**Full-Stack Developer | AWS Cloud Practitioner & Solutions Architect**  
-I’m a passionate **Full-Stack Developer** and **AWS Cloud Enthusiast** who loves turning ideas into scalable, impactful solutions.  
-I work across the stack with **Django**, **DRF**, **React**, **Next.js (TypeScript)**, and **Node.js**, blending backend power with intuitive user experiences.  
+## Full-Stack Developer | Cloud & Solutions Architecture Enthusiast
 
-☁️ As an **AWS Certified Cloud Practitioner** and aspiring **Solutions Architect**, I design and deploy cloud-native applications, focusing on **scalability**, **security**, and **efficiency** using services like **EC2**, **S3**, **RDS**, and **Lambda**.  
-My goal is to bridge software engineering with cloud innovation — building systems that are fast, reliable, and ready to grow.  
+I am a Full-Stack Developer with a strong interest in designing scalable, secure, and maintainable software systems. My experience spans frontend development, backend engineering, cloud technologies, and modern deployment practices.
 
----
+I build web applications using Django, Django REST Framework, React, Next.js, TypeScript, and Node.js, focusing on creating solutions that deliver excellent user experiences while maintaining robust backend architectures.
 
-### About Me  
--  Based in Kenya  
--  AWS Certified Cloud Practitioner & aspiring Solutions Architect  
--  Currently exploring AI integration and cloud-native web apps  
--  Ask me about Django REST APIs, React UIs, or full-stack project architecture  
--  Goal: Build tech that simplifies lives & empowers communities  
+As an AWS Certified Cloud Practitioner and an aspiring Solutions Architect, I am actively expanding my expertise in cloud-native application design, infrastructure automation, system scalability, security, and DevOps practices. I enjoy bridging software engineering with cloud technologies to build reliable systems that can grow with business needs.
 
 ---
 
-### Tech Stack  
-**Frontend:** React, Next.js, Tailwind CSS, TypeScript  
-**Backend:** Django, DRF, Node.js, Express  
-**Database:** PostgreSQL, SQLite  
-**Cloud & DevOps:** AWS, Docker, GitHub Actions  
-**Other Tools:** Redux, REST API, Postman  
+## About Me
+
+* Based in Kenya
+* AWS Certified Cloud Practitioner
+* Aspiring Solutions Architect
+* Passionate about cloud computing, infrastructure automation, and software architecture
+* Currently exploring AI-powered applications, Terraform, Google Cloud Platform, and cloud-native development
+* Interested in building technology that solves real-world challenges and creates meaningful impact
 
 ---
 
-### GitHub Stats  
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmauzishakes&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmauzishakes&layout=compact&theme=radical)
+## Core Technologies
+
+### Frontend
+
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* Redux
+
+### Backend
+
+* Django
+* Django REST Framework (DRF)
+* Node.js
+* Express.js
+
+### Databases
+
+* PostgreSQL
+* SQLite
+
+### Cloud & DevOps
+
+* AWS
+* Docker
+* Terraform
+* GitHub Actions
+* Git
+
+### Tools & Technologies
+
+* REST APIs
+* Postman
+* Linux
+* CI/CD
+* Infrastructure as Code (IaC)
 
 ---
 
-### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mwangangi-040869368)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](https://personal-portfolio-delta-lime.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white)](mailto:mwangangie284@gmail.com)
+## Current Focus Areas
+
+* Cloud Architecture and Infrastructure Design
+* Terraform and Infrastructure as Code
+* AWS and Google Cloud Platform
+* Microservices Architecture
+* AI Integration in Web Applications
+* Scalable Full-Stack Systems
 
 ---
 
-> “Code with purpose. Design with empathy. Build for impact.” 🌱
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmauzishakes\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmauzishakes\&layout=compact\&theme=radical)
+
+---
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/emmanuel-mwangangi-040869368
+* Portfolio: https://personal-portfolio-delta-lime.vercel.app
+* Email: [mwangangie284@gmail.com](mailto:mwangangie284@gmail.com)
+
+---
+
+> Code with purpose. Design with empathy. Build solutions that scale.
